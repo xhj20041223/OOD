@@ -1,0 +1,7 @@
+create event blah
+pritn events on 2025-06-01
+print events from 2025-01-01 to 2025-01-02
+
+create event blah on 2025-06-01
+print events on 2025-06-01
+print events from 2025-05-20T00:00 to 2025-06-20T00:00

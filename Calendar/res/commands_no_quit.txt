@@ -1,0 +1,15 @@
+create event party on 2025-12-12
+print events on 2025-12-12
+create event OOD from 2025-06-05T08:00 to 2025-06-05T10:00
+print events on 2025-06-05
+create event Fundies from 2025-12-01T08:00 to 2025-12-01T11:00 repeats MTWRFSU until 2026-01-01
+print events on 2025-12-12
+edit events location Fundies from 2025-12-15T08:00 with physical
+print events on 2025-12-14
+print events on 2025-12-15
+edit series location Fundies from 2025-12-15T08:00 with online
+print events on 2025-12-14
+print events on 2025-12-15
+show status on 2025-12-01T09:00
+show status on 2025-12-01T12:00
+print events from 2025-12-10T11:00 to 2025-12-15T08:00
